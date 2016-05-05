@@ -1,6 +1,5 @@
 # Physikunterricht
-Codes für den Physikunterricht
+Processing-Codes für den Physikunterricht
 
-* Interferenz: p5.js Demonstation zur Interferenz zweier Kreiswellen
-* Interferenz.pde: processing Version von "Interferenz"
-* Interferenz dynamisch: Sich ausbreitende Kreiswellen interferieren (Processing)
+* Interferenz: Statisches Bild zweier interferierender Kreiswellen
+* Interferenz dynamisch: Sich ausbreitende Kreiswellen interferieren
