@@ -3,13 +3,13 @@ Virtuelle Realitäten und das Internet der Dinge
 
 ### Das Höhlengleichnis Platons {#das-höhlengleichnis-platons .next}
 
-![](hoehlengleichnis.jpg){.next}
+![](hoehlengleichnis.jpg)
 
 ---
 
-### ![](TheMatrixAnimated.gif){.next}
+### ![](TheMatrixAnimated.gif)
 
-![](rainingcode.gif){.next}
+![](rainingcode.gif)
 
 ---
 
@@ -32,7 +32,7 @@ Konstruktion und Wahrnehmung virtueller Welten
 
 ### Stereoskopie und Raumbildaufnahmen
 
-![](raumbild.jpg){.next}
+![](raumbild.jpg)
 
 ---
 
@@ -47,7 +47,7 @@ Konstruktion und Wahrnehmung virtueller Welten
 
 ### Panorama- und 360°-Aufnahmen
 
-![](panorama-mars.jpg){.next}
+![](panorama-mars.jpg)
 
 [360°-Aufnahmen eines
 Mars-Rovers](https://www.360cities.net/image/curiosity-rover-martian-solar-day-2)
@@ -71,7 +71,7 @@ Vernetzung von Gegenständen
 
 ### Anbringen und programmieren benötigter Hardware
 
-![](rfid-stelle.JPG){.next}
+![](rfid-stelle.JPG)
 
 Eine ERP-Stelle in Singapur (Electronic Road Pricing)
 
