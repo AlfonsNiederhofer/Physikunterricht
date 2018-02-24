@@ -15,13 +15,17 @@ Virtuelle Realitäten und das Internet der Dinge
 
 ### Abgrenzung der Begriffe
 
--   In die computergenerierte, virtuelle Realität taucht der Nutzer so
-    vollständig wie möglich ein (z.B. VR-Headset).
--   Die erweiterte Realität ergänzt die Wahrnehmung mit
-    computergenerierten Zusatzinformationen.
--   Das Internet der Dinge bindet Gegenstände ins Internet ein und macht
+<ul>
+<li class="fragment"> In die computergenerierte, virtuelle Realität taucht der Nutzer so
+    vollständig wie möglich ein (z.B. VR-Headset). </li>
+ <li class="fragment"> Die erweiterte Realität ergänzt die Wahrnehmung mit
+    computergenerierten Zusatzinformationen.</li>
+
+ <li class="fragment">  Das Internet der Dinge bindet Gegenstände ins Internet ein und macht
     ihre Eigenschaften somit auch für virtuelle bzw. erweiterte
-    Realitäten verfügbar.
+    Realitäten verfügbar.</li>
+</ul>
+
 
 ---
 
